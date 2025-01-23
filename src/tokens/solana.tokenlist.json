@@ -1,9 +1,10 @@
 {
   "chainId": 101,
   "address": "DTeKUph7tEu6MRT5b37sLWfeM2iJSRkQbR9KhUrf6n2v",
-  "symbol": "ТВОЙ_СИМВОЛ",
-  "name": "ТВОЁ_ИМЯ_ТОКЕНА",
+  "symbol": "RGX",
+  "name": "Regix Token",
   "decimals": 6,
-  "logoURI": "URL_ТВОЕГО_ЛОГОТИПА",
-  "tags": ["community", "utility"]
+  "logoURI": "https://i.imgur.com/your-logo.png",
+  "tags": ["community", "meme"]
 }
+
