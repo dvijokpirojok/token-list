@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": "3Hw3MoNJTVap9b6gFHJefLd3U2pGbhrCdW9YW4zuM8mE",
-  "symbol": "RGX",
-  "name": "Regix",
+  "address": "DTeKUph7tEu6MRT5b37sLWfeM2iJSRkQbR9KhUrf6n2v",
+  "symbol": "ТВОЙ_СИМВОЛ",
+  "name": "ТВОЁ_ИМЯ_ТОКЕНА",
   "decimals": 6,
-  "logoURI": "https://imgur.com/pVLZDFu.png",
-  "tags": ["meme", "community"]
+  "logoURI": "URL_ТВОЕГО_ЛОГОТИПА",
+  "tags": ["community", "utility"]
 }
